@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+#root{
+  display: flex;
+  gap: 2%;
+  align-self: center;
+  justify-content: center;
+}
+
+#container{
+  
+  /* width: 100vw; */
+  display: flex;  
+  margin-top: 10%;
+  
+  justify-content: center;
+
+
+}
