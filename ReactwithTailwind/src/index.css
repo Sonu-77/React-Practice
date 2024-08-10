@@ -6,16 +6,20 @@
 
 
 #root{
+  height: 100vh;
   display: flex;
   gap: 2%;
   align-self: center;
   justify-content: center;
+  flex-direction: row;
+  background-color: blueviolet;
 }
 
 #container{
   
   /* width: 100vw; */
   display: flex;  
+
   margin-top: 10%;
   
   justify-content: center;
